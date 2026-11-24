@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35360545/README.md)[README.md](https://github.com/user-attachments/files/35360639/README.md)<p align="center">
+<p align="center">
   <img src="docs/charts/banner.png" alt="AegisKEV - 180-day CISA KEV exploitation forecasting" width="100%">
 </p>
 
