@@ -1,0 +1,27 @@
+# Datasets and generated artifacts are never committed.
+data/raw/
+data/curated/
+data/*.sqlite3
+data/*.jsonl
+artifacts/
+mlruns/
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Local env
+.env
+.env.local
